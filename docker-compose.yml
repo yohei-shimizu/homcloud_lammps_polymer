@@ -1,0 +1,19 @@
+version: '3'
+services:
+  ubuntu:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - './home:/home'
+    environment:
+      TZ: Asia/Tokyo
+      OMPI_ALLOW_RUN_AS_ROOT: 1
+      OMPI_ALLOW_RUN_AS_ROOT_CONFIRM: 1
+    tty: true
+    stdin_open: true
+    expose:
+      - "8888"
+    ports:
+      - "127.0.0.1:8888:8888"
+    #restart: always
