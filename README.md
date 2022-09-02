@@ -53,7 +53,7 @@ docker compose up -d
 you can use jupyter notebook at `localhost:8888` on your browser.
 
 ## Responsibility
-Yohei SHIMIZU
+Yohei SHIMIZU  
 Graduate School of Simulation Studies, University of Hyogo, 7-1-28 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
 
 sb19x003@sim.u-hyogo.ac.jp
