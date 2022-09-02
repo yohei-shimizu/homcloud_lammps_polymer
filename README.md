@@ -7,7 +7,7 @@ We have used homcloud 2.9.0 to calculate persistent homology with python.
 See the following web site to build the operationg environment.  
 https://homcloud.dev/index.en.html
 
-We used an Intel Xeon processor, Windows 10, WSL2 workstation with 64GB of memory. In particular, it consumes a lot of memory.Be careful if you recompute this result.  
+We used an Intel Xeon processor, Windows 10, WSL2 workstation with 64GB of memory. In particular, it consumes a lot of memory. Be careful if you recompute this result.  
 
 Other library version is following.  
 matplotlib==3.3.3  
@@ -50,7 +50,7 @@ and start container,
 ```
 docker compose up -d
 ```
-you can use jupyter notebook at localhost:8888 on your browser.
+you can use jupyter notebook at `localhost:8888` on your browser.
 
 ## Responsibility
 Yohei SHIMIZU
