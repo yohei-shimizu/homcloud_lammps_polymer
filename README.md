@@ -36,33 +36,26 @@ somoclu==1.7.5.1
 ## Detailed description of files
 See home folder.
 
-<<<<<<< HEAD
 It is a jupyter format file, and persistent_vector_analysis.ipynb performs machine learning using persistent homology as a descriptor.
-
 Fingerprints_analysis.ipynb performs machine learning using fingerprints as descriptors for comparison.
-
 Persistent diagram graph is in pd_result folder.
-
 Persistent vector data as machine learning descriptor converted from persistent homology is in pd_vector folder.
-
 The graphs used in our paper are in the results folder.
-
-
 
 ## Docker container
 If you are using Docker, you can build the environment by cloning this project and building a container.
 To build docker image, 
-> docker compose build
+"""
+docker compose build
+"""
 and start container,
-> docker compose up -d
+"""
+docker compose up -d
+"""
 you can use jupyter notebook at localhost:8888 on your browser.
 
 ## Responsibility
 Yohei SHIMIZU
 Graduate School of Simulation Studies, University of Hyogo, 7-1-28 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.
-=======
-# Responsibility
-Yohei SHIMIZU  
-Graduate School of Simulation Studies, University of Hyogo, 7-1-28 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan.  
->>>>>>> e1dcb54a890e033ec91e3e808fe003f4f6e5b42e
+
 sb19x003@sim.u-hyogo.ac.jp
