@@ -36,9 +36,13 @@ somoclu==1.7.5.1
 See home folder.  
 It is a jupyter format file, and persistent_vector_analysis.ipynb performs machine learning using persistent homology as a descriptor.  
 Fingerprints_analysis.ipynb performs machine learning using fingerprints as descriptors for comparison.  
+These ipynb file is large and may not be displayed on github, so clone it and check it.  
 Persistent diagram graph is in pd_result folder.  
 Persistent vector data as machine learning descriptor converted from persistent homology is in pd_vector folder.  
-The graphs used in our paper are in the results folder.
+The graphs used in our paper are in the results folder.  
+pd_calc.py calculates the persistent diagram and persistent vector from the coordinates of all atoms in the final step of each polymer calculated by Lammps. The Lammps coordinates file is not listed due to its huge size.  
+Relative permittivity, which is the objective variable, is calculated with cellsize_dc_calculation.py. The dipole moment of each polymer calculated by Lammps is described in dc_polar.txt, and the cell size is described in cell_size.txt.  
+
 
 ## Docker container
 If you are using Docker, you can build the environment by cloning this project and building a container.  
