@@ -1,0 +1,315 @@
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8685255937071819
+Test_score: 0.5863195908016787
+Best Model Parameter:  {'max_depth': 92, 'max_features': 76, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 320}
+Train_score 0.9001660198701154
+Test_score: 0.5674601938947192
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8655025817299047
+Test_score: 0.5700938108849996
+Best Model Parameter:  {'max_depth': 49, 'max_features': 26, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 360}
+Train_score 0.8171620006623064
+Test_score: 0.5397566895044803
+Best Model Parameter:  {'max_depth': 97, 'max_features': 82, 'min_samples_leaf': 6, 'min_samples_split': 6, 'n_estimators': 20}
+Train_score 0.7875036181906072
+Test_score: 0.614965201924419
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9404304050868358
+Test_score: 0.6840424611104936
+Best Model Parameter:  {'max_depth': 95, 'max_features': 25, 'min_samples_leaf': 4, 'min_samples_split': 7, 'n_estimators': 410}
+Train_score 0.818553072439495
+Test_score: 0.6414394709086757
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9367086599946296
+Test_score: 0.679950733422315
+Best Model Parameter:  {'max_depth': 66, 'max_features': 95, 'min_samples_leaf': 6, 'min_samples_split': 12, 'n_estimators': 10}
+Train_score 0.7609804944409423
+Test_score: 0.6661956661149473
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9397185539346813
+Test_score: 0.6663751504907355
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8903481991949851
+Test_score: 0.6509755712742893
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9348974004975423
+Test_score: 0.6750272965680348
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9102294015098115
+Test_score: 0.6784218492102628
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9102818754821853
+Test_score: 0.6790007254053267
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.936093621867118
+Test_score: 0.6512169184206755
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8583762715848243
+Test_score: 0.6547318167225439
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9077813324129983
+Test_score: 0.6709992084440186
+Best Model Parameter:  {'max_depth': 92, 'max_features': 76, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 320}
+Train_score 0.8990338067968099
+Test_score: 0.6658536354745624
+Best Model Parameter:  {'max_depth': 27, 'max_features': 90, 'min_samples_leaf': 1, 'min_samples_split': 16, 'n_estimators': 40}
+Train_score 0.7943842282912172
+Test_score: 0.6243760419163749
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9064373645605929
+Test_score: 0.6700719739186229
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.934754055607178
+Test_score: 0.616401093460839
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9385454249764548
+Test_score: 0.689800221999276
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9390849122276885
+Test_score: 0.6470491895550864
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9061641921600659
+Test_score: 0.663683564800204
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.861001610898938
+Test_score: 0.6622525715908648
+Best Model Parameter:  {'max_depth': 66, 'max_features': 86, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 510}
+Train_score 0.8816560381387553
+Test_score: 0.6622303772754065
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9336903206705145
+Test_score: 0.6725126195084075
+Best Model Parameter:  {'max_depth': 15, 'max_features': 97, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 120}
+Train_score 0.8118035617374917
+Test_score: 0.6514250312829468
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.9076966132110195
+Test_score: 0.6656880902112097
+Best Model Parameter:  {'max_depth': 91, 'max_features': 35, 'min_samples_leaf': 2, 'min_samples_split': 18, 'n_estimators': 20}
+Train_score 0.7330329421079744
+Test_score: 0.5975299602032305
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8980850527744115
+Test_score: 0.6885232144602444
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9359658073295686
+Test_score: 0.6484287588307923
+Best Model Parameter:  {'max_depth': 95, 'max_features': 25, 'min_samples_leaf': 4, 'min_samples_split': 7, 'n_estimators': 410}
+Train_score 0.8129995243623276
+Test_score: 0.6428738400903182
+Best Model Parameter:  {'max_depth': 31, 'max_features': 88, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 740}
+Train_score 0.884545422124046
+Test_score: 0.6703458923763225
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9087378522719176
+Test_score: 0.6672689880758106
+Best Model Parameter:  {'max_depth': 66, 'max_features': 86, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 510}
+Train_score 0.8784369728834127
+Test_score: 0.6667249990407564
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9360152554733013
+Test_score: 0.6798108919964484
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9384063122492329
+Test_score: 0.6601592100822996
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9294999437531172
+Test_score: 0.6614451457550601
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9051799057267164
+Test_score: 0.668590187336844
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8611435956971432
+Test_score: 0.6640221145274792
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9362295975333157
+Test_score: 0.6869882787574914
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9320843148752341
+Test_score: 0.6974106259934394
+Best Model Parameter:  {'max_depth': 66, 'max_features': 95, 'min_samples_leaf': 6, 'min_samples_split': 12, 'n_estimators': 10}
+Train_score 0.7655476815167427
+Test_score: 0.6270351225074509
+Best Model Parameter:  {'max_depth': 15, 'max_features': 97, 'min_samples_leaf': 5, 'min_samples_split': 5, 'n_estimators': 120}
+Train_score 0.8123657843239624
+Test_score: 0.6576310244456016
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.932809622284493
+Test_score: 0.6335054772833051
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.936438838051595
+Test_score: 0.6541923177163795
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9016842166341942
+Test_score: 0.6772804537016724
+Best Model Parameter:  {'max_depth': 97, 'max_features': 82, 'min_samples_leaf': 6, 'min_samples_split': 6, 'n_estimators': 20}
+Train_score 0.7768185611402093
+Test_score: 0.6576151247267499
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9365127945697015
+Test_score: 0.673438038739343
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8541784254664937
+Test_score: 0.6643463464407873
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8962589938873187
+Test_score: 0.6467303567413915
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9061936174577992
+Test_score: 0.6698317976568829
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9287983265612091
+Test_score: 0.6709971658016968
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9360602797225632
+Test_score: 0.6538470318989718
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.855441077258421
+Test_score: 0.6706575751299193
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9063769381503495
+Test_score: 0.6633515386092297
+Best Model Parameter:  {'max_depth': 30, 'max_features': 68, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 100}
+Train_score 0.8307829864566618
+Test_score: 0.6710685434300697
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.928154966439978
+Test_score: 0.644513319688947
+Best Model Parameter:  {'max_depth': 30, 'max_features': 68, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 100}
+Train_score 0.825050267079285
+Test_score: 0.6659622767772484
+Best Model Parameter:  {'max_depth': 21, 'max_features': 24, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 660}
+Train_score 0.8544763666780788
+Test_score: 0.6605832319945002
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8941300933081577
+Test_score: 0.6847117413965125
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9032858499395191
+Test_score: 0.6600023950134071
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9280673936229735
+Test_score: 0.6510037434310361
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9280909927769033
+Test_score: 0.6873515468697529
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9281404755270014
+Test_score: 0.6859928460895706
+Best Model Parameter:  {'max_depth': 66, 'max_features': 95, 'min_samples_leaf': 6, 'min_samples_split': 12, 'n_estimators': 10}
+Train_score 0.7663431131038096
+Test_score: 0.5980373417742993
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8966863953579587
+Test_score: 0.663412091649892
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9050674342024191
+Test_score: 0.6732893531257998
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8984593625743236
+Test_score: 0.6730921171290618
+Best Model Parameter:  {'max_depth': 49, 'max_features': 26, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 360}
+Train_score 0.8062868660156018
+Test_score: 0.6377726434134328
+Best Model Parameter:  {'max_depth': 92, 'max_features': 76, 'min_samples_leaf': 1, 'min_samples_split': 8, 'n_estimators': 320}
+Train_score 0.8958496745861427
+Test_score: 0.669525587419657
+Best Model Parameter:  {'max_depth': 31, 'max_features': 88, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 740}
+Train_score 0.8808738815091963
+Test_score: 0.669058568290878
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.926379708361444
+Test_score: 0.6666841719596052
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9336122111150318
+Test_score: 0.7057299927410283
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9340021662967432
+Test_score: 0.6576137085348046
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.898533921895565
+Test_score: 0.6690372293892426
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9074533944194334
+Test_score: 0.6713104028387751
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9295803325646521
+Test_score: 0.6616510071239512
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9428158198850771
+Test_score: 0.6617891232201951
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.935702051458808
+Test_score: 0.656736935446308
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9347050864379828
+Test_score: 0.6849826236013823
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9340081743082873
+Test_score: 0.6478761597118574
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9085869718159443
+Test_score: 0.6622411772977301
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9068244918968624
+Test_score: 0.6775499197147162
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9033981429005875
+Test_score: 0.6709507546904181
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9071049661269882
+Test_score: 0.6681447370200619
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9414350212107643
+Test_score: 0.642629160695702
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9308489895917507
+Test_score: 0.6871135540732147
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9023995829489236
+Test_score: 0.6883393090872573
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9074508860229867
+Test_score: 0.6715869464153503
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9283398788126576
+Test_score: 0.6802143380708083
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.8976468124426473
+Test_score: 0.6666243540681149
+Best Model Parameter:  {'max_depth': 41, 'max_features': 61, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 270}
+Train_score 0.894394916454008
+Test_score: 0.6581182825567067
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9370212340657609
+Test_score: 0.6538037871655922
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9364415227694187
+Test_score: 0.6729734149168523
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9033346191521814
+Test_score: 0.6717836607320877
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9027467132654727
+Test_score: 0.6641748819070055
+Best Model Parameter:  {'max_depth': 30, 'max_features': 68, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 100}
+Train_score 0.8343460776478021
+Test_score: 0.6310884358906732
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9314494811048276
+Test_score: 0.6402965012811892
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9406598549266959
+Test_score: 0.641362684995071
+Best Model Parameter:  {'max_depth': 83, 'max_features': 73, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 470}
+Train_score 0.9054082702237554
+Test_score: 0.6693675603680193
+Best Model Parameter:  {'max_depth': 66, 'max_features': 86, 'min_samples_leaf': 3, 'min_samples_split': 2, 'n_estimators': 510}
+Train_score 0.8800609593963253
+Test_score: 0.6619835910301975
+Best Model Parameter:  {'max_depth': 15, 'max_features': 40, 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 100}
+Train_score 0.9217615173759233
+Test_score: 0.6481213312810701
+Best Model Parameter:  {'max_depth': 30, 'max_features': 68, 'min_samples_leaf': 4, 'min_samples_split': 9, 'n_estimators': 100}
+Train_score 0.81495769318728
+Test_score: 0.6412019730726244

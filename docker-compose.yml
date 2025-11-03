@@ -2,7 +2,7 @@ version: '3'
 services:
   ubuntu:
     build:
-      context: ./
+      context: ./ubuntu
       dockerfile: Dockerfile
     volumes:
       - './home:/home'
@@ -16,4 +16,6 @@ services:
       - "8888"
     ports:
       - "127.0.0.1:8888:8888"
+    command:
+      jupyter notebook --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token=''
     #restart: always
